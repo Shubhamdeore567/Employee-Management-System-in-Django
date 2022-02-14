@@ -1,1 +1,1 @@
-# Shubhamdeore567-Employee-Management-System-in-Django
+# Employee-Management-System-in-Django
